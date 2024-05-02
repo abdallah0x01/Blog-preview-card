@@ -17,7 +17,7 @@ html {
 
 body {
   height: 100vh;
-  background-color: var(--color-yellow);
+/*   background-color: var(--color-yellow); */
   font-family: "Roboto", sans-serif;
   display: flex;
   justify-content: center;
